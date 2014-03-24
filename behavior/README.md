@@ -1,4 +1,6 @@
 PATTERNS OF BEHAVIOR(ПАТЕРНИ ПОВЕДІНКИ)
+=======================================
+
 
 Another group of patterns is such that focuses on behavior. They either encapsulate behavior, or allow it to be distributed.
 
